@@ -1,0 +1,68 @@
+{
+  "name": "turf-polyToLineString",
+  "version": "1.0.0",
+  "description": "turf polygon to linestring module",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js",
+    "doc": "dox -r < index.js | doxme --readme > README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rowanwins/turf-polyToLineString.git"
+  },
+  "keywords": [
+    "gis",
+    "geojson",
+    "turf",
+    "polygon",
+    "linestring"
+  ],
+  "author": {
+    "name": "rowanwins"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rowanwins/turf-polyToLineString/issues"
+  },
+  "homepage": "https://github.com/rowanwins/turf-polyToLineString",
+  "devDependencies": {
+    "tape": "^3.5.0",
+    "dox": "^0.6.1",
+    "doxme": "^1.4.3"
+  },
+  "maintainers": [
+    {
+      "name": "morganherlocker",
+      "email": "morgan.herlocker@gmail.com"
+    },
+    {
+      "name": "mourner",
+      "email": "agafonkin@gmail.com"
+    },
+    {
+      "name": "jvrousseau",
+      "email": "jv.rousseau@outlook.com"
+    },
+    {
+      "name": "jseppi",
+      "email": "james.seppi@gmail.com"
+    },
+    {
+      "name": "cspanring",
+      "email": "cspanring@gmail.com"
+    },
+    {
+      "name": "cwmma",
+      "email": "calvin.metcalf@gmail.com"
+    },
+    {
+      "name": "lyzidiamond",
+      "email": "lyzi@mapbox.com"
+    },
+    {
+      "name": "tmcw",
+      "email": "tom@macwright.org"
+    }
+  ]
+}
